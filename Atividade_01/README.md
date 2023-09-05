@@ -34,3 +34,22 @@ FGTS (11%)                --> R$ 165,00
 Total de descontos        --> R$ 300,00
 Salário Liquido           --> R$ 1200,00
 ```
+### Código:
+
+* Importação de bibliotecas e declaração da função responsável pelo Cálculo do Salário:
+https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/d884d34fd5b99e08757bf66d631b049087f01d60/Atividade_01/Algoritmos_Atividade_01.c#L1-L7
+
+* Função responsável pelo cálculo do IR
+https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/d884d34fd5b99e08757bf66d631b049087f01d60/Atividade_01/Algoritmos_Atividade_01.c#L9-L13
+
+* Função responsável pelo cálculo do INSS 
+https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/d884d34fd5b99e08757bf66d631b049087f01d60/Atividade_01/Algoritmos_Atividade_01.c#L9-L13
+
+* Função responsável pelo cálculo do FGTS 
+https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/d884d34fd5b99e08757bf66d631b049087f01d60/Atividade_01/Algoritmos_Atividade_01.c#L21-L25
+
+* Função responsável pela chamada de outras funções e ordenação dos calculos para imprimir ao usuário o resultado dos valores
+https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/d884d34fd5b99e08757bf66d631b049087f01d60/Atividade_01/Algoritmos_Atividade_01.c#L27-L57
+
+* Função principal, sendo responsável por inicializar a lógica de funcionamento do código e chamada das funções.
+https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/d884d34fd5b99e08757bf66d631b049087f01d60/Atividade_01/Algoritmos_Atividade_01.c#L59-L65
