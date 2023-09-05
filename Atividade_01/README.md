@@ -23,8 +23,8 @@ deposita).
 
 ## Exemplo:
 Veja um exemplo de saída considerando as entradas:
-* Hora: 15
-* Quantidade de Horas Trabalhadas: 100
+* `Hora:` 15
+* `Quantidade de Horas Trabalhadas:` 100
 
 ```
 Salário Bruto: (15 * 100) --> R$ 1500,00
