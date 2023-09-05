@@ -35,6 +35,7 @@ Total de descontos        --> R$ 300,00
 Salário Liquido           --> R$ 1200,00
 ```
 ### Código:
+>Trechos referentes ao código [Atividade_01](https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/main/Atividade_01/Atividade_01.c)
 
 * Importação de bibliotecas e declaração da função responsável pelo Cálculo do Salário:
 https://github.com/RyanBrittes/Faculdade_Algoritmos/blob/d884d34fd5b99e08757bf66d631b049087f01d60/Atividade_01/Algoritmos_Atividade_01.c#L1-L7
